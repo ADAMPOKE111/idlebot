@@ -1,0 +1,12 @@
+### Version 1.1
+
+* Added steam chat control/interactivitiy such as "/change" (change idling appID), "/name" (change steam name of bot) and "idle" to check if/what the bot is idling.
+* Added variables:
+	appID (can independantly control appID - may be used in the future)
+	newappID (holds the new appID to idle via /change)
+	newName (holds the new steam name to change to via /name)
+	
+
+### Version 1.0
+
+* Initial Release
